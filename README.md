@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Hashir15432/Hashir15432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there! I'm [Your Name]
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer who loves building innovative projects, solving real-world problems, and continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+
+- 🔭 Currently working on: Webdeveloper
+- 🌱 Learning:  python, Next.js, Machine Learning
+- 💬 Ask me about: Web development, APIs, open-source contributions
+- ⚡ Fun fact: Show a hobby, hidden talent, or playful tech fact.
+
+## 🛠️ Tech Stack
+
+```html
+Languages: HTML, CSS, JavaScript, PHP  
+Frameworks: React, Node.js, Express, Laravel  
+Tools: Git, VSCode, Postman, Figma, Docker  
+Databases: MySQL, MongoDB, Flask
