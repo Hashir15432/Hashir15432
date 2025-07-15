@@ -1170,6 +1170,26 @@ footer .social-icons a i,
     <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <script src="js/global.js"></script>
     <script src="js/script.js"></script>
+
+<!-- AI Chatbot Floating Button and Chat Window -->
+<div id="ai-chatbot" aria-label="AI Chatbot" role="region">
+  <button id="chatbot-fab" aria-label="Open chat" tabindex="0">
+    <i class="ri-message-3-line"></i>
+  </button>
+  <div id="chatbot-window" class="chatbot-hidden" aria-modal="true" role="dialog">
+    <header class="chatbot-header">
+      <span>AI Assistant</span>
+      <button id="chatbot-close" aria-label="Close chat" tabindex="0"><i class="ri-close-line"></i></button>
+    </header>
+    <div id="chatbot-messages" class="chatbot-messages" aria-live="polite"></div>
+    <form id="chatbot-form" autocomplete="off">
+      <input id="chatbot-input" type="text" placeholder="Type your message..." aria-label="Type your message" required />
+      <button type="submit" aria-label="Send message"><i class="ri-send-plane-2-line"></i></button>
+    </form>
+  </div>
+</div>
+<!-- End AI Chatbot -->
+
 </body>
 
 </html>

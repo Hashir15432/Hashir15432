@@ -262,3 +262,120 @@ function displayCompanies(data) {
     });
     companyList.appendChild(table);
 }
+
+// === AI Chatbot Logic ===
+(function() {
+  const fab = document.getElementById('chatbot-fab');
+  const windowEl = document.getElementById('chatbot-window');
+  const closeBtn = document.getElementById('chatbot-close');
+  const form = document.getElementById('chatbot-form');
+  const input = document.getElementById('chatbot-input');
+  const messages = document.getElementById('chatbot-messages');
+
+  // Dummy AI responses
+  const aiReplies = [
+    "Hello! How can I assist you today?",
+    "I'm here to help. Ask me anything!",
+    "That's interesting! Tell me more.",
+    "Let me look that up for you...",
+    "Could you clarify your question?",
+    "Here's what I found on that topic.",
+    "I'm an AI assistant. How can I help?"
+  ];
+
+  function getAIReply(userMsg) {
+    // For demo, random reply. Replace with API call for real AI.
+    return aiReplies[Math.floor(Math.random() * aiReplies.length)];
+  }
+
+  function scrollToBottom() {
+    messages.scrollTop = messages.scrollHeight;
+  }
+
+  function addMessage(text, sender = 'bot', timestamp = true) {
+    const msg = document.createElement('div');
+    msg.className = `chatbot-message ${sender}`;
+    msg.setAttribute('role', 'listitem');
+    msg.innerHTML = `<span>${text}</span>`;
+    if (timestamp) {
+      const time = document.createElement('span');
+      time.className = 'chatbot-timestamp';
+      const now = new Date();
+      time.textContent = now.toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+      msg.appendChild(time);
+    }
+    messages.appendChild(msg);
+    scrollToBottom();
+  }
+
+  function showTyping() {
+    const typing = document.createElement('div');
+    typing.className = 'chatbot-typing';
+    typing.setAttribute('id', 'chatbot-typing');
+    typing.innerHTML = `
+      <span class="chatbot-typing-dot"></span>
+      <span class="chatbot-typing-dot"></span>
+      <span class="chatbot-typing-dot"></span>
+      <span style="margin-left:0.5em; color:#1565C0; font-size:0.95em;">Bot is typing...</span>
+    `;
+    messages.appendChild(typing);
+    scrollToBottom();
+  }
+
+  function hideTyping() {
+    const typing = document.getElementById('chatbot-typing');
+    if (typing) typing.remove();
+  }
+
+  function openChat() {
+    windowEl.classList.remove('chatbot-hidden');
+    fab.setAttribute('aria-expanded', 'true');
+    input.focus();
+  }
+  function closeChat() {
+    windowEl.classList.add('chatbot-hidden');
+    fab.setAttribute('aria-expanded', 'false');
+    fab.focus();
+  }
+
+  fab.addEventListener('click', openChat);
+  fab.addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') {
+      openChat();
+    }
+  });
+  closeBtn.addEventListener('click', closeChat);
+  closeBtn.addEventListener('keydown', e => {
+    if (e.key === 'Enter' || e.key === ' ') closeChat();
+  });
+
+  form.addEventListener('submit', function(e) {
+    e.preventDefault();
+    const userMsg = input.value.trim();
+    if (!userMsg) return;
+    addMessage(userMsg, 'user');
+    input.value = '';
+    showTyping();
+    setTimeout(() => {
+      hideTyping();
+      addMessage(getAIReply(userMsg), 'bot');
+    }, 1200 + Math.random() * 800);
+  });
+
+  // Accessibility: ESC to close
+  window.addEventListener('keydown', function(e) {
+    if (!windowEl.classList.contains('chatbot-hidden') && e.key === 'Escape') {
+      closeChat();
+    }
+  });
+
+  // Auto-scroll on new message
+  const observer = new MutationObserver(scrollToBottom);
+  observer.observe(messages, {childList: true});
+
+  // Initial greeting
+  setTimeout(() => {
+    addMessage("Hi! I'm your AI assistant. How can I help you today?", 'bot');
+  }, 600);
+})();
+// === End AI Chatbot Logic ===
