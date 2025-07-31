@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Hashir 
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building innovative projects, solving real-world problems, and continuously learning new technologies.
 
