@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 ```html
 Languages: HTML, CSS, JavaScript, PHP  
-Frameworks: React, Node.js, Express, Laravel  
+Frameworks: React, Node.js 
 Tools: Git, VSCode, Postman, Figma, Docker  
-Databases: MySQL, MongoDB, Flask
+Databases:  MongoDB, Flask
