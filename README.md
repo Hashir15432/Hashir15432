@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 ## 🛠️ Tech Stack
 
 ```html
-Languages: HTML, CSS, JavaScript, PHP  
-Frameworks: React, Node.js 
-Tools: Git, VSCode, Postman, Figma, Docker  
-Databases:  MongoDB, Flask
+Languages: HTML, CSS, JavaScript, React
+Tools: Git, VSCode,
+Databases:  Firebase
