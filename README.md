@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building inno
 
 - 🔭 Currently working on: Webdeveloper
 - 🌱 Learning:  python, Next.js, Machine Learning
-- 💬 Ask me about: Web development, APIs, open-source contributions
+- 💬 Ask me about: Web development, open-source contributions
 - ⚡ Fun fact: Show a hobby, hidden talent, or playful tech fact.
 
 ## 🛠️ Tech Stack
