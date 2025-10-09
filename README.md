@@ -7,10 +7,10 @@ I’m currently learning HTML, CSS, JavaScript, and React, focusing on building 
 
 📜 [Click here](https://www.codecademy.com/profiles/hashir_khan)
 
-🔗 Connect with me:  
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hashir-khan15432/)) | 
-[Twitter](https://twitter.com/yourprofile) | 
-[Instagram](https://github.com/yourprofile)
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/hashir-khan15432/))  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
