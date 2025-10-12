@@ -4,7 +4,7 @@
 
 
 ##  About Me  
-I’m currently learning **HTML, CSS, JavaScript, and React**, focusing on building modern and responsive web applications.  
+I’m currently learning **HTML, CSS, JavaScript, and React, Redux**, focusing on building modern and responsive web applications.  
 I enjoy learning in public and sharing my journey with the community.  
 
  [Click here](https://www.codecademy.com/profiles/hashir_khan)
