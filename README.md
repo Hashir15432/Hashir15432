@@ -1,5 +1,5 @@
 # Hi, I'm Muhammad Hashir 
-- Learner Frontend Engineer  
+- Frontend Engineer  
 
 
 
