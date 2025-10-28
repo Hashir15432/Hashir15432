@@ -1,6 +1,12 @@
 # Hi, I'm Muhammad Hashir 
 - Frontend Engineer  
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
 
 ##  About Me  
@@ -9,6 +15,12 @@ I enjoy learning in public and sharing my journey with the community.
 
  [Click here](https://www.codecademy.com/profiles/hashir_khan)
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
 
 
 ##  Connect with Me
@@ -17,10 +29,27 @@ I enjoy learning in public and sharing my journey with the community.
 [![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/)
 
 
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+
+
 
 ##  Skills
 ![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,python,firebase,git,github&perline=5)
 
-![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966](https://github.com/user-attachments/assets/1afc2769-719f-47bb-911a-52f9055bcb7e)
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
+
+
+[![Pixel Art Wallpaper Desktop Gif](https://github.com/user-attachments/assets/68b05b87-a235-4916-82e3-b3d8bfa59896)
+]()
 
 ![github-contribution-grid-snake](https://github.com/user-attachments/assets/20844d71-f85b-4a9f-8fc5-32dbde633888)
