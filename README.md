@@ -11,7 +11,7 @@
 </div>
     
 ##  About Me  
-I’m currently learning **HTML, CSS, JavaScript, and React, Redux**, focusing on building modern and responsive web applications.  
+I’m currently learning **HTML, CSS, JavaScript, and React, Tailwind CSS**, focusing on building modern and responsive web applications.  
 I enjoy learning in public and sharing my journey with the community.  
 
  [Click here](https://www.codecademy.com/profiles/hashir_khan)
@@ -41,7 +41,7 @@ I enjoy learning in public and sharing my journey with the community.
 </div>
   
 ##  Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,python,firebase,git,github&perline=5)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,python,firebase,git,github&perline=5)
 
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekGanvir&label=Profile%20views&color=0e75b6&style=flat" alt="AbhishekGanvir" /> </p>
