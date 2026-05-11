@@ -1,102 +1,86 @@
-# Hi, I'm Muhammad Hashir 
-- Frontend Developer
+# Hi, I am Muhammad Hashir.
 
+`Frontend Developer` · `React · Next.js`. `Gsap Expert` · `Peham Ltd.`
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-    
-##  About Me  
-I am creating scalable and high-performance web interfaces for modern businesses. I focus on building clean, intuitive, and conversion-driven user experiences using modern frontend technologies, with a strong emphasis on quality, performance, and business value.
-
-
+Building fast, accessible, and conversion-focused web interfaces. Currently shipping production React and Next.js at Peham Ltd while expanding into full-stack development.
 
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    
-## Core Tech Stack
-### Frontend Development
-- React.js
-- Next.js
-- JavaScript (ES6+)
-- TypeScript (actively learning for type-safe architectures)
 
-### UI & Styling
-- Tailwind CSS
-- HTML5 / CSS3
-- GSAP (High-performance animations)
+## About
 
-### Backend & Databases (Learning Full‑Stack)
-- Node.js
-- Express.js
-- MongoDB
-- SQL
-
-### Workflow & Best Practices
-- Git & GitHub
-- Component-driven development
-- RESTful APIs (fundamentals)
-- Responsive & accessible design
-- Performance optimization
-
- [Click here](https://www.codecademy.com/profiles/hashir_khan)
-
+I'm a frontend developer focused on component-driven architecture, clean UI, and real business outcomes. I work at **Peham Ltd** where I build and maintain client-facing interfaces. Outside of work, I'm deepening my knowledge of TypeScript, Next.js architecture, and backend fundamentals to grow into full-stack engineering.
 
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    
-## Continuous Growth  
-- Improving skills in TypeScript for scalable applications  
-- Expanding knowledge of Next.js architecture and performance  
-- Enhancing frontend systems for long-term maintainability
 
+## Tech Stack
 
-<div align="left">
-    <div align="left">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-    
-##  Connect with Me
-[![linkedin](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/linkedin.svg)](https://www.linkedin.com/in/hashirkhan15432/)
-[![twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/twitter-x.svg)](https://x.com/hashirkhan15432)
-[![instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/instagram.svg)](https://instagram.com/ha.shir_786)
-[![dev.to](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/filled/media2.dev.to.svg)](https://dev.to/hashirkhan/)
+**Core**
+`React.js` `Next.js` `JavaScript (ES6+)`
 
+**Styling & Animation**
+`Tailwind CSS` `HTML5` `CSS3` `GSAP`
 
+**Workflow**
+`Git` `GitHub` `REST APIs` `Responsive Design` `Component-Driven Development`
 
-
-
-
-
+**Currently Learning**
+`TypeScript` `Node.js` `Express.js` `MongoDB`
 
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-  
-##  Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,GreenSock,tailwindcss,nextjs,typescript,python,mongodb,git,github&perline=5)
 
+## Currently
+
+🟢 **Frontend Developer — Peham Ltd**
+Building and shipping production interfaces used by real clients.
 
 <div align="left">
     <div align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
-    
-## Collaboration
 
-I am interested in collaborating on professional, business-critical frontend projects, SaaS products, and high-impact digital platforms.
+## What I'm Working Toward
 
-- Frontend Developer at Peham Ltd
+→ Type-safe React architectures using TypeScript at scale  
+→ Advanced Next.js patterns — App Router, server components, streaming  
+→ Full-stack fluency with Node.js and MongoDB  
+→ Long-term maintainability: clean APIs, reusable systems, solid documentation  
 
-- Focused on quality, scalability, and business results
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-> Delivering frontend solutions where design excellence meets performance and business value.
+## Open To
+
+Collaborating on **SaaS products**, **business-critical frontends**, and **high-impact digital platforms** where I can contribute clean UI, performance-focused code, and real product thinking.
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## Connect
+
+- 🌐 **Portfolio:** https://hashirwebx.netlify.app/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/hashirkhan15432/
+- 📬 **Email:** hashirkhan15432@gmail.com
+
+<div align="left">
+    <div align="left">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+*Open to work · Rawalpindi, PK · Replies within 24h*
+
 
 <div align="left">
     <div align="left">
