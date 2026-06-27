@@ -70,7 +70,7 @@ Collaborating on **SaaS products**, **business-critical frontends**, and **high-
 
 ## Connect
 
-- 🌐 **Portfolio:** https://hashirwebx.netlify.app/
+- 🌐 **Portfolio:** https://hashirwebx.framer.website/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/hashirkhan15432/
 - 📬 **Email:** hashirkhan15432@gmail.com
 
