@@ -21,7 +21,7 @@ I'm a frontend Engineer focused on component-driven architecture, clean UI, and 
 ## Tech Stack
 
 **Core**
-`React.js` `Next.js` `JavaScript (ES6+)`
+`React.js` `Next.js` `JavaScript` `TypeScript`
 
 **Styling & Animation**
 `Tailwind CSS` `HTML5` `CSS3` `GSAP`
@@ -29,8 +29,11 @@ I'm a frontend Engineer focused on component-driven architecture, clean UI, and 
 **Workflow**
 `Git` `GitHub` `REST APIs` `Responsive Design` `Component-Driven Development`
 
-**Currently Learning**
-`TypeScript` `Node.js` `Express.js` `MongoDB`
+**Backend**
+ `Supabase` `MongoDB` `Express.js`
+
+**Currently Learning backend advanced**
+ `Node.js` `Express.js` 
 
 <div align="left">
     <div align="left">
