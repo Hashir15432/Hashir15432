@@ -1,6 +1,6 @@
 # Hi, I am Muhammad Hashir.
 
-`Frontend Developer` · `React · Next.js`. `Gsap Expert` · `Peham Ltd.`
+`Frontend Engineer` · `React · Next.js`. `GSAP Animations` · `Peham Ltd.`
 
 Building fast, accessible, and conversion-focused web interfaces. Currently shipping production React and Next.js at Peham Ltd while expanding into full-stack development.
 
