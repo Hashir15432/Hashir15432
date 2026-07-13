@@ -11,7 +11,7 @@ Building fast, accessible, and conversion-focused web interfaces. Currently ship
 
 ## About
 
-I'm a frontend developer focused on component-driven architecture, clean UI, and real business outcomes. I work at **Peham Ltd** where I build and maintain client-facing interfaces. Outside of work, I'm deepening my knowledge of TypeScript, Next.js architecture, and backend fundamentals to grow into full-stack engineering.
+I'm a frontend Engineer focused on component-driven architecture, clean UI, and real business outcomes. I work at **Peham Ltd** where I build and maintain client-facing interfaces. Outside of work, I'm deepening my knowledge of TypeScript, Next.js architecture, and backend fundamentals to grow into full-stack engineering.
 
 <div align="left">
     <div align="left">
